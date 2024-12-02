@@ -1,0 +1,13 @@
+{
+    "name": "wagner/documentos",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "phpmailer/phpmailer": "^6.9",
+        "endroid/qr-code": "^6.0"
+    }
+}
